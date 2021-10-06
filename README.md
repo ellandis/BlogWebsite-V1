@@ -6,5 +6,6 @@ Boss Challenge Section 23 complete
 // npm i node
 // npm i express
 // npm i body-parser
-//  npm i ejs
-//  npm i --save lodash
+// npm i ejs
+// npm i --save lodash
+// npm install -g nodemon
