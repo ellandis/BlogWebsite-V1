@@ -9,3 +9,7 @@ Boss Challenge Section 23 complete
 // npm i ejs
 // npm i --save lodash
 // npm install -g nodemon
+
+++++++ how to run ++++++
+inside dircetory run command
+$ nodemon app.js
